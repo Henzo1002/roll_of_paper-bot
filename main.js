@@ -84,12 +84,6 @@ client.on('message', message => {
 	}
 });
 
-client.on('message', message => {
-	if (message.content === 'Henzo') {
-		message.stickers('');
-	}
-});
-
 
 
 
