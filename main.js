@@ -38,6 +38,12 @@ client.on('message', message => {
 	}
 });
 
+client.on('message', message => {
+	if (message.content === 'swagmoneygaming.com') {
+		message.reply('<:sbetflushed:793643748851843102> best website on earth, if you disagree ill shoot your fucking cat<:sbetgun:799132599922589776>. https://www.swagmoneygaming.com <:sbetsexy:792311017107488769>');
+	}
+});
 
 
-client.login(provess.env.token);
+
+client.login('ODc3MzM5NjAwMDA2MjgzMzA0.YRxMLA.CBW8Buk3XSf0YIWE62XU3zj69pY');
