@@ -1,0 +1,14 @@
+{
+  "name": "rollofpaper_bot",
+  "version": "0.0.1",
+  "description": "a discord bot that reacts with roll_of_paper",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henzo1002",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
