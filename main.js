@@ -6,7 +6,7 @@ const prefix = 'r';
 
 
 
-//haupt ding
+//haupt ding eig
 client.on("messageCreate", msg => msg.react('🧻'));
 
 
@@ -88,4 +88,4 @@ client.on('message', message => {
 
 
 
-client.login(process.env.token);
+client.login("ODc3MzM5NjAwMDA2MjgzMzA0.YRxMLA.CBW8Buk3XSf0YIWE62XU3zj69pY");
